@@ -14,5 +14,5 @@ time.sleep(2)
 print('pronto...')
 time.sleep(1)
 
-print(f'Você pode sacar: u${din_carteira*dolar:.2f} Dólares')
+print(f'Você pode sacar: U${din_carteira/dolar:.2f} Dólares')
 
